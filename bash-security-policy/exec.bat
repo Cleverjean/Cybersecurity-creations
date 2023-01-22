@@ -1,4 +1,4 @@
 @echo off
-echo pak u
+echo Message from bat file
 powershell -ExecutionPolicy ByPass -File powershell.ps1
 pause
